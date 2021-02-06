@@ -1,0 +1,44 @@
+C:/Users/Desktop/source/repos/HomesForSale/Serializer/bin/Debug/netstandard2.0/Serializer.deps.json
+C:/Users/Desktop/source/repos/HomesForSale/Serializer/bin/Debug/netstandard2.0/Serializer.dll
+C:/Users/Desktop/source/repos/HomesForSale/Serializer/bin/Debug/netstandard2.0/Serializer.pdb
+C:/Users/Desktop/source/repos/HomesForSale/Serializer/obj/Debug/netstandard2.0/Serializer.csproj.CoreCompileInputs.cache
+C:/Users/Desktop/source/repos/HomesForSale/Serializer/obj/Debug/netstandard2.0/Serializer.AssemblyInfoInputs.cache
+C:/Users/Desktop/source/repos/HomesForSale/Serializer/obj/Debug/netstandard2.0/Serializer.AssemblyInfo.cs
+C:/Users/Desktop/source/repos/HomesForSale/Serializer/obj/Debug/netstandard2.0/Serializer.dll
+C:/Users/Desktop/source/repos/HomesForSale/Serializer/obj/Debug/netstandard2.0/Serializer.pdb
+C:/Users/kund/3D Objects/HomesForSale_Assignment-master/Serializer/bin/Debug/netstandard2.0/Serializer.deps.json
+C:/Users/kund/3D Objects/HomesForSale_Assignment-master/Serializer/bin/Debug/netstandard2.0/Serializer.dll
+C:/Users/kund/3D Objects/HomesForSale_Assignment-master/Serializer/bin/Debug/netstandard2.0/Serializer.pdb
+C:/Users/kund/3D Objects/HomesForSale_Assignment-master/Serializer/obj/Debug/netstandard2.0/Serializer.csprojAssemblyReference.cache
+C:/Users/kund/3D Objects/HomesForSale_Assignment-master/Serializer/obj/Debug/netstandard2.0/Serializer.csproj.CoreCompileInputs.cache
+C:/Users/kund/3D Objects/HomesForSale_Assignment-master/Serializer/obj/Debug/netstandard2.0/Serializer.AssemblyInfoInputs.cache
+C:/Users/kund/3D Objects/HomesForSale_Assignment-master/Serializer/obj/Debug/netstandard2.0/Serializer.AssemblyInfo.cs
+C:/Users/kund/3D Objects/HomesForSale_Assignment-master/Serializer/obj/Debug/netstandard2.0/Serializer.dll
+C:/Users/kund/3D Objects/HomesForSale_Assignment-master/Serializer/obj/Debug/netstandard2.0/Serializer.pdb
+C:/Users/kund/Desktop/1/Serializer/bin/Debug/netstandard2.0/Serializer.deps.json
+C:/Users/kund/Desktop/1/Serializer/bin/Debug/netstandard2.0/Serializer.dll
+C:/Users/kund/Desktop/1/Serializer/bin/Debug/netstandard2.0/Serializer.pdb
+C:/Users/kund/Desktop/1/Serializer/obj/Debug/netstandard2.0/Serializer.csprojAssemblyReference.cache
+C:/Users/kund/Desktop/1/Serializer/obj/Debug/netstandard2.0/Serializer.csproj.CoreCompileInputs.cache
+C:/Users/kund/Desktop/1/Serializer/obj/Debug/netstandard2.0/Serializer.AssemblyInfoInputs.cache
+C:/Users/kund/Desktop/1/Serializer/obj/Debug/netstandard2.0/Serializer.AssemblyInfo.cs
+C:/Users/kund/Desktop/1/Serializer/obj/Debug/netstandard2.0/Serializer.dll
+C:/Users/kund/Desktop/1/Serializer/obj/Debug/netstandard2.0/Serializer.pdb
+/Volumes/FATIMA NA15/1/Serializer/obj/Debug/netstandard2.0/Serializer.csprojAssemblyReference.cache
+/Volumes/FATIMA NA15/1/Serializer/obj/Debug/netstandard2.0/Serializer.AssemblyInfoInputs.cache
+/Volumes/FATIMA NA15/1/Serializer/obj/Debug/netstandard2.0/Serializer.AssemblyInfo.cs
+/Volumes/FATIMA NA15/1/Serializer/obj/Debug/netstandard2.0/Serializer.csproj.CoreCompileInputs.cache
+/Volumes/FATIMA NA15/1/Serializer/obj/Debug/netstandard2.0/Serializer.dll
+/Volumes/FATIMA NA15/1/Serializer/obj/Debug/netstandard2.0/Serializer.pdb
+/Volumes/FATIMA NA15/1/Serializer/bin/Debug/netstandard2.0/Serializer.deps.json
+/Volumes/FATIMA NA15/1/Serializer/bin/Debug/netstandard2.0/Serializer.dll
+/Volumes/FATIMA NA15/1/Serializer/bin/Debug/netstandard2.0/Serializer.pdb
+D:\1\Serializer\bin\Debug\netstandard2.0\Serializer.deps.json
+D:\1\Serializer\bin\Debug\netstandard2.0\Serializer.dll
+D:\1\Serializer\bin\Debug\netstandard2.0\Serializer.pdb
+D:\1\Serializer\obj\Debug\netstandard2.0\Serializer.csprojAssemblyReference.cache
+D:\1\Serializer\obj\Debug\netstandard2.0\Serializer.AssemblyInfoInputs.cache
+D:\1\Serializer\obj\Debug\netstandard2.0\Serializer.AssemblyInfo.cs
+D:\1\Serializer\obj\Debug\netstandard2.0\Serializer.csproj.CoreCompileInputs.cache
+D:\1\Serializer\obj\Debug\netstandard2.0\Serializer.dll
+D:\1\Serializer\obj\Debug\netstandard2.0\Serializer.pdb

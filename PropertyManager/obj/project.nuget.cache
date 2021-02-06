@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yXXUOhEDNCcEs3MUaJJsz7/+BzDNHVGDoNjTPey70fOlXx6EmFmZyODVHNddOCnwul79O/MbI7BoaXWyKxZ/DA==",
+  "success": true,
+  "projectFilePath": "D:\\1\\PropertyManager\\PropertyManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a7mad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\a7mad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{4F244115-23DB-4A6A-B396-6B857FC6175D}|Default">
+  <MonoDevelop.Ide.ItemProperties.HomesForSale PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomesForSale/Form1.cs">
+    <Files>
+      <File FileName="PropertyManager/House.cs" Line="10" Column="2" />
+      <File FileName="HomesForSale/Form1.cs" Line="37" Column="66" />
+      <File FileName="HomesForSale/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="HomesForSale/Form1.resx" Line="1" Column="1" />
+      <File FileName="PropertyManager/Address.cs" Line="1" Column="1" />
+      <File FileName="PropertyManager/Apartment.cs" Line="10" Column="1" />
+      <File FileName="PropertyManager/CommericalOption.cs" Line="1" Column="1" />
+      <File FileName="PropertyManager/CommericalPro.cs" Line="1" Column="1" />
+      <File FileName="PropertyManager/Countries.cs" Line="6" Column="1" />
+      <File FileName="PropertyManager/EstateController.cs" Line="9" Column="55" />
+      <File FileName="PropertyManager/IListController.cs" Line="10" Column="21" />
+      <File FileName="PropertyManager/LegalForm.cs" />
+      <File FileName="PropertyManager/ListController.cs" Line="126" Column="47" />
+      <File FileName="Serializer/Serialize.cs" Line="9" Column="22" />
+      <File FileName="PropertyManager/Property.cs" Line="30" Column="15" />
+      <File FileName="PropertyManager/ResidentalOption.cs" Line="1" Column="1" />
+      <File FileName="PropertyManager/ResidentalPro.cs" Line="1" Column="1" />
+      <File FileName="PropertyManager/Shop.cs" Line="9" Column="5" />
+      <File FileName="PropertyManager/Villa.cs" />
+      <File FileName="PropertyManager/Warehouse.cs" />
+      <File FileName="PropertyManager/Townhouse.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomesForSale" expanded="True">
+            <Node name="HomesForSale" expanded="True">
+              <Node name="Form1.cs" expanded="True" selected="True" />
+            </Node>
+            <Node name="PropertyManager" expanded="True" />
+            <Node name="Serializer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
